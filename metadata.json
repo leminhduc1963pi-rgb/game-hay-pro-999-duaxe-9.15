@@ -1,0 +1,6 @@
+{
+  "name": "Racing Video Factory",
+  "description": "High-Performance 60 FPS Multi-Instance Racing Video Generation Factory with 15 Realistic Broadcast TV Cameras, 20 Track Layouts, 20 Biomes & Weather, and Instant Video Recording Pipeline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
